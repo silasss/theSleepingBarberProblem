@@ -19,21 +19,33 @@ This algorithm use normal distribution (math.h - param -lm) for the arrival of c
 
 
 
+
 - Functions
 
   int main();
+  
   void* pthBarbeiro();
+  
   void* pthCliente(int *param);
+  
   double distNormalAleatoria();
+  
   void cabecalho();
   
+
 
 
 Include libs
 
   #include &lt;stdio.h&gt;
+  
   #include &lt;stdlib.h&gt;
+  
   #include &lt;unistd.h&gt;
+  
   #include &lt;math.h&gt;
+  
   #include &lt;pthread.h&gt;
+  
   #include &lt;semaphore.h&gt;
+  
