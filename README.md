@@ -1,4 +1,4 @@
-theSleepingBarberProblem
+The Sleeping Barber Problem
 ========================
 
-The sleeping barber problem
+It's a example of an implementation of sleeping barber problem, written in C language.
