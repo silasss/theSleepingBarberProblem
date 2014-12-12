@@ -12,10 +12,15 @@ This algorithm use normal distribution (math.h - param -lm) for the arrival of c
 - Technical specifications
 
   SO: Debian GNU/Linux jessie/sid
+  
   IDE: Netbeans 8.0
+  
   Compiler: gcc (Debian 4.8.2-16) 4.8.2
+  
   Params of compilation (in IDE): -lpthread -lm
+  
   Language fo software: pt-BR (portuguese brazilian)
+  
 
 
 
