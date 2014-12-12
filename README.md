@@ -35,7 +35,7 @@ This algorithm use normal distribution (math.h - param -lm) for the arrival of c
 
 
 
-Include libs
+- Include libs
 
   #include &lt;stdio.h&gt;
   
