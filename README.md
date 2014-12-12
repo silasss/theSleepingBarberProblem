@@ -37,15 +37,15 @@ This algorithm use normal distribution (math.h - param -lm) for the arrival of c
 
 - Include libs
 
-  #include &lt;stdio.h&gt;
+  &#35;include &lt;stdio.h&gt;
   
-  #include &lt;stdlib.h&gt;
+  &#35;include &lt;stdlib.h&gt;
   
-  #include &lt;unistd.h&gt;
+  &#35;include &lt;unistd.h&gt;
   
-  #include &lt;math.h&gt;
+  &#35;include &lt;math.h&gt;
   
-  #include &lt;pthread.h&gt;
+  &#35;include &lt;pthread.h&gt;
   
-  #include &lt;semaphore.h&gt;
+  &#35;include &lt;semaphore.h&gt;
   
