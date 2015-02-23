@@ -1,8 +1,9 @@
 /**
  * Problema do barbeiro dorminhoco
  * 
- * Professor: Augusto 
+ * Professor: Augusto Silva
  * Displina: Enfase II - Threads
+ * PUC-GOIAS
  * 
  * @author Silas dos S. Silva
  * @since 08 dez 2014 14:56
